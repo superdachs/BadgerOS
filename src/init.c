@@ -9,4 +9,36 @@ void init(void)
   // Print Welcome Message
   kprintf("BADGER OS 0.1 Booting...");
   kprintf("OK");
+  kprintf("text");
+  kprintf("text");
+  kprintf("text");
+  kprintf("text");
+  kprintf("text");
+  kprintf("text");
+  kprintf("text");
+  kprintf("text");
+  kprintf("text");
+  kprintf("text");
+  kprintf("text");
+  kprintf("text");
+  kprintf("text");
+  kprintf("text");
+  kprintf("text");
+  kprintf("text");
+  kprintf("text");
+  kprintf("text");
+  kprintf("text");
+  kprintf("text");
+  kprintf("text");
+  kprintf("text");
+  kprintf("text");
+  kprintf("text");
+  kprintf("text");
+  kprintf("text");
+  kprintf("text");
+  kprintf("text");
+  kprintf("text");
+  kprintf("text");
+  kprintf("text");
+  kprintf("text");
 }
