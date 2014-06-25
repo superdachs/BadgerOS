@@ -4,8 +4,8 @@ OBJS = $(addsuffix .o,$(basename $(SRCS)))
 CC = gcc
 LD = ld
 
-ASFLAGS = -m32
-CFLAGS = -m32 -Wall -g -fno-stack-protector -nostdinc
+ASFLAGS = -m32 
+CFLAGS =  -m32 -Wall -g -fno-stack-protector -v
 LDFLAGS = -melf_i386 -Tkernel.ld
 
 kernel: $(OBJS)
