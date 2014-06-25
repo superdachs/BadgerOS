@@ -1,7 +1,12 @@
-#include "console.h"
+#include "output.h"
+#include "hwinf.h"
 
 void init(void)
 {
-	kprintf("Badger OS 0.1 Booting...");
-	kprintf("Done.");
+  // Clear BIOS Messages
+  cls();
+
+  // Print Welcome Message
+  kprintf("BADGER OS 0.1 Booting...");
+  kprintf("OK");
 }
