@@ -20,3 +20,5 @@ BadgerOS
 
 * Run with
   qemu-system-x86_64 -kernel kernel
+
+https://www.lowlevel.eu/wiki/OS-Dev_f%C3%BCr_Einsteiger
